@@ -5,20 +5,20 @@ This project is created for **ITPM Assignment 1**.
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 This project automates the testing of the Singlish to Sinhala Translator web application  
 (https://www.swifttranslator.com/) using Playwright.
 
 The following test types are included:
 
-- ✅ Positive Functional Test Cases  
-- ❌ Negative Functional Test Cases  
-- 🖥️ UI Functional Test Cases  
+-  Positive Functional Test Cases  
+-  Negative Functional Test Cases  
+-  UI Functional Test Cases  
 
 ---
 
-## 🧪 Test Scenarios Covered
+##  Test Scenarios Covered
 
 ### Positive Functional Tests
 - Valid Singlish sentences are correctly translated to Sinhala.
@@ -37,7 +37,7 @@ The following test types are included:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 IT3040_ITPM_Assignment_1
 ├ tests
 │ ├ singlish-positive.spec.js
@@ -79,7 +79,7 @@ Name: Sahan Mendis
 Student ID: IT23332980
 Module: IT3040 – IT Project Management
 
-📎 Notes
+ Notes
 
 This project is for academic purposes only.
 
